@@ -106,9 +106,3 @@ Isso significa que a ordem de execução dos testes **não importa** — cada um
 Documentação interativa disponível em `http://localhost:8000/docs` com a API rodando.
 
 ---
-
-## Verificação final antes de entregar
-
-```bash
-docker-compose up -d db_test && pytest --cov=main -v
-```
