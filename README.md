@@ -106,3 +106,11 @@ Isso significa que a ordem de execução dos testes **não importa** — cada um
 Documentação interativa disponível em `http://localhost:8000/docs` com a API rodando.
 
 ---
+```
+## Projeto Acadêmico
+
+Projeto desenvolvido para a disciplina **Laboratório de Programação Back End (Eng.Soft05_B_N_M_991532_20261)** do curso de Engenharia de Software.
+
+A atividade teve como objetivo aplicar conceitos de desenvolvimento backend por meio da construção de uma API REST utilizando FastAPI, integração com banco de dados PostgreSQL, containerização com Docker e implementação de testes automatizados com Pytest, seguindo boas práticas de desenvolvimento e qualidade de software.
+
+```
